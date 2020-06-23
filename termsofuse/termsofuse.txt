@@ -1,0 +1,11 @@
+#sms
+If you do not agree to our Terms of Use, you are not authorized to use the Service, and must not access the Service by any means. Read the Terms of Use at https://stackr.ca/terms-of-use.
+#snippet
+<b>If you do not agree to our Terms of Use, you are not authorized to use the Service, and must not access the Service by any means.</b>
+#slug
+terms-of-use
+#email
+The Service is provided by [word] located at [mail_regulatory]. We hope that you will find our service helpful and/or useful. By using our Service by whatever means, including through available third-party text messaging services, through our website (the “Site”), and through apps, you agree to the Terms of Use available at [web_prefix]terms-of-use. Please read them carefully.<br>
+If you do not agree to these Terms of Use, you are not authorized to use the Service, and must not access the Service by any means.
+#han
+使用条款

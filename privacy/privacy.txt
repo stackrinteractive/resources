@@ -1,0 +1,23 @@
+#sms
+Records of SMS text, originating number and destination agent are retained until forgotten. Records may be forgotten at anytime with the command FORGETALL. Either by the us or by anyone in this CHANNEL. FORGETALL forgets all of the CHANNEL Things. Things may contain nominal key accessible information. More PRIVACY at https://stackr.ca/privacy. TEXT TERMS OF USE
+#snippet
+<b>Thank you. Privacy is really important to [word]. Records deposited with [word] may be forgotten at any time.</b>
+#slug
+privacy
+#email
+Thank you. Privacy is really important to [word]. Records deposited with [word] may be forgotten at any time.<br>
+The address fields (to:, cc:, and bcc:) are stripped of non-Stackr emails, and the subject line is processed by [word]<br>
+An instruction to Stackr to remove all message records associated with this email address can be sent to forgetall[mail_postfix].<br>
+<br>If you need to discuss our privacy policy please contact [email]. 
+Our mailing address is [mail_regulatory].<br>
+For a full statement of our privacy policy, please goto to <a href="[web_prefix]privacy"> [web_prefix]privacy</a>
+#help
+This is the Privacy manager. Email nrwtaylor@gmail.com.
+#message
+Request for web privacy policy.
+#request
+What is the Privacy?
+#han
+隐私
+#choices
+Start / Opt-in / Terms of Use

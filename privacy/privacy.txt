@@ -12,7 +12,7 @@ An instruction to Stackr to remove all message records associated with this emai
 Our mailing address is [mail_regulatory].<br>
 For a full statement of our privacy policy, please goto to <a href="[web_prefix]privacy"> [web_prefix]privacy</a>
 #help
-This is the Privacy manager. Email nrwtaylor@gmail.com.
+This is the Privacy manager. Email nick@stackr.ca.
 #message
 Request for web privacy policy.
 #request
